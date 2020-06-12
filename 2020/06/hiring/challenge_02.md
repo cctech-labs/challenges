@@ -65,4 +65,4 @@ Fonts
 - Verdana
 
 SVG
-- upload.svg
+- [upload.svg](https://raw.githubusercontent.com/mercurial-hc/challenges/master/2020/06/hiring/images/upload.svg)
