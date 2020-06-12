@@ -51,18 +51,18 @@ _This page contains challenges for CCTech's hiring activity for June 2020_
 #### Assets
 
 Colors Used -
-Blue Shades
-Lightest - #ebf8ff
-Light - #4299e1
-Regular - #3182ce
-Dark - #2c5282
+- Blue Shades
+  - Lightest - #ebf8ff
+  - Light - #4299e1
+  - Regular - #3182ce
+  - Dark - #2c5282
 
-Gray Shades
-Light - #e2e8f0
-Dark - #a0aec0
+- Gray Shades
+  - Light - #e2e8f0
+  - Dark - #a0aec0
 
 Fonts
-Verdana
+- Verdana
 
 SVG
-upload.svg
+- upload.svg
