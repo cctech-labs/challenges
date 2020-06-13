@@ -44,7 +44,7 @@ _This page contains challenges for CCTech's hiring activity for June 2020_
 
 ![Desktop View](https://github.com/mercurial-hc/challenges/blob/master/2020/06/hiring/images/c2-q1-desktop.png)
 
-#### Desktop View
+#### Mobile View
 
 ![Mobile View](https://github.com/mercurial-hc/challenges/blob/master/2020/06/hiring/images/c2-q1-mobile.png)
 
