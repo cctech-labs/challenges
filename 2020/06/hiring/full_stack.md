@@ -46,11 +46,11 @@ _This page contains challenges for CCTech's hiring activity for June 2020_
 
 #### Desktop View
 
-<img src="images/c2-q1-desktop.png" style="height:300px;">
+<img src="./images/c2-q1-desktop.png" height="300">
 
 #### Mobile View
 
-<img src="images/c2-q1-mobile.png" style="height:300px;">
+<img src="./images/c2-q1-mobile.png" height="300">
 
 #### Assets Used
 
