@@ -45,12 +45,10 @@ _This page contains challenges for CCTech's hiring activity for June 2020_
 ### References for UI
 
 #### Desktop View
-
-![Desktop View](https://github.com/mercurial-hc/challenges/blob/master/2020/06/hiring/images/c2-q1-desktop.png)
+<img src="images/c2-q1-desktop.png" style="height:300px;" alt="Desktop Layout">
 
 #### Mobile View
-
-![Mobile View](https://github.com/mercurial-hc/challenges/blob/master/2020/06/hiring/images/c2-q1-mobile.png)
+<img src="images/c2-q1-mobile.png" style="height:300px;" alt="Mobile Layout">
 
 #### Assets Used 
 
@@ -69,4 +67,4 @@ Fonts
 - Verdana
 
 SVG
-- [upload.svg](https://raw.githubusercontent.com/mercurial-hc/challenges/master/2020/06/hiring/images/upload.svg)
+- [upload.svg](./images/upload.svg)
