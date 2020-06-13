@@ -21,8 +21,8 @@ _This page contains challenges for CCTech's hiring activity for June 2020_
 
 <table>
     <tr>
-        <td><img src="images/c1_q1_1.png" style="height:300px;"></td>
-        <td><img src="images/c1_q1_2.png" style="height:300px;"></td>
+        <td><img src="images/c1_q1_1.png" height="300"></td>
+        <td><img src="images/c1_q1_2.png" height="300"></td>
     </tr>
 </table>
 
@@ -52,7 +52,7 @@ _This page contains challenges for CCTech's hiring activity for June 2020_
 
 **Description**  : Given a coordinates of buildings and source point **_'p'_** of sunlight. Calculate the length of building exposed to sunlight having the source at point **_p_**.
 
-<img src="./images/c1_q2.png" style="height:300px;">
+<img src="./images/c1_q2.png" height="300">
 <br>
 
 #### Write a function that takes two arguments as a input and return **length** of the building exposed to sunlight <br>
