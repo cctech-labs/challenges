@@ -21,8 +21,8 @@
 ### Regression Problem
 
 You have been provided with two csv files
- - [dataset.csv](./resosurces/data_science/dataset.csv)
- - [prediction.csv](./resosurces/data_science/prediction.csv)
+ - [dataset.csv](./resources/data_science/dataset.csv)
+ - [prediction.csv](./resources/data_science/prediction.csv)
 
 Instructions to work on the regression problem:
  - The dataset.csv file contains 9 features and 1 target column whereas the prediction.csv file contains just the feature columns
