@@ -45,10 +45,10 @@ _This page contains challenges for CCTech's hiring activity for June 2020_
 ### References for UI
 
 #### Desktop View
-<img src="images/c2-q1-desktop.png" style="height:300px;" alt="Desktop Layout">
+<img src="images/c2-q1-desktop.png" height="300" alt="Desktop Layout">
 
 #### Mobile View
-<img src="images/c2-q1-mobile.png" style="height:300px;" alt="Mobile Layout">
+<img src="images/c2-q1-mobile.png" height="300" alt="Mobile Layout">
 
 #### Assets Used 
 
