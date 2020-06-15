@@ -29,30 +29,28 @@ _This page contains challenges for CCTech's hiring activity for June 2020_
 #### Criterias for Evaluation
 
 - Required Criteria
-    - User must be able to upload the image through the front-end webpage
-    - Non-image files aren't uploadable
-    - A grid layout of 3 columns is expected for Desktop displays
-    - The uploaded image is viewable in the same webpage in front-end
-    - The Upload Button should have text 'Upload'
+    - User must be able to upload the image through the front-end webpage
+    - Non-image files aren't uploadable
+    - A grid layout of 3 columns is expected for Desktop displays
+    - The uploaded image is viewable in the same webpage in front-end
+    - The Upload Button should have text 'Upload'
     - The Images displayed should have one HTML class of 'preview-image' along with other classes you require
     - Provide documentation to run / view your application
 - Additional / Bonus
     - The application should try to follow the reference as closely as possible or provide an improved design
-    - A single-column layout for Mobile displays
-    - Appropriate HTTP response on bad requests
+    - A single-column layout for Mobile displays
+    - Appropriate HTTP response on bad requests
     - It's deployed and publicly accessible. You can use any hosting provider of your choice.
 
 ### References for UI
 
 #### Desktop View
-
-<img src="./images/c2-q1-desktop.png" height="300">
+<img src="images/c2-q1-desktop.png" style="height:300px;" alt="Desktop Layout">
 
 #### Mobile View
+<img src="images/c2-q1-mobile.png" style="height:300px;" alt="Mobile Layout">
 
-<img src="./images/c2-q1-mobile.png" height="300">
-
-#### Assets Used
+#### Assets Used 
 
 Colors Used -
 - Blue Shades
