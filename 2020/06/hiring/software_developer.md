@@ -19,8 +19,12 @@ _This page contains challenges for CCTech's hiring activity for June 2020_
 
 **Description**  : Given a polygon and a point **'p'**, find if **'p'** lies inside the polygon or not. The points lying on the border are considered inside.
 
-<img src="images/c1_q1_1.png" height="300">
-<img src="images/c1_q1_2.png" height="300">
+<table>
+    <tr>
+        <td><img src="images/c1_q1_1.png" height="300"></td>
+        <td><img src="images/c1_q1_2.png" height="300"></td>
+    </tr>
+</table>
 
 #### Write a function that takes two arguments as a input and return **_True_** if **'p'** lies inside the polygon else **_False_**. <br> Do not use any built-in or library functions. This question is to test you ability to create the required algorithm. <br> 
 
