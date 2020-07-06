@@ -12,7 +12,7 @@ _This page contains challenges for CCTech's hiring activity for June 2020_
 
 - You are expected to write the following program in your preferred language/framework
 - Upload your work to your github account and email the link to hr@cctech.co.in
-- Also record a video demonstrating the workflow of your created website and upload it to you YouTube account email the link to hr@cctech.co.in
+- Record a video demonstrating the workflow of the created website and upload it to YouTube and email the link to hr@cctech.co.in
 
 ## Create a full-stack online photo-sharing application named "YouFrame"
 
