@@ -20,6 +20,8 @@ _This page contains challenges for CCTech's hiring activity for June 2020_
 
 #### The application should have the following functionalities:
 
+- Failing to satisfy ANY of the below *Required Criteria*, your application *would probably* be rejected
+    - Failing to satisfy Criterias in **bold** of the below *Required Criteria*, your application *will be* be rejected
 - The homepage of the website loads a dashboard of all the uploaded photos
 - The dashboard contains 3 tiles in a row
 - At the top, provide a button to select a photo from your PC and upload it
@@ -34,10 +36,15 @@ _This page contains challenges for CCTech's hiring activity for June 2020_
     - Non-image files aren't uploadable
     - A grid layout of 3 columns is expected for Desktop displays
     - The uploaded image is viewable in the same webpage in front-end
-    - The Upload Button should have text 'Upload'
-    - The Images displayed should have one HTML class of 'preview-image' along with other classes you require
-    - Provide documentation to run / view your application
+    - **The Upload Button should have display text 'Upload'**
+    - **The Images displayed should have one HTML class of 'preview-image' along with other classes you require**
+        - **The id on img tag of each Image should be its file name**
+        ```html
+        <img id="image-1.jpg" class="preview-image">
+        ```
+    - **Provide documentation to run / view your application**
 - Additional / Bonus
+    - The Front-End is made using React, or Angular, or TypeScript, or Plaint HTML/CSS/JS
     - The application should try to follow the reference as closely as possible or provide an improved design
     - A single-column layout for Mobile displays
     - Appropriate HTTP response on bad requests
