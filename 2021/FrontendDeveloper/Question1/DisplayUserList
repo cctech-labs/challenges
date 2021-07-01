@@ -1,0 +1,8 @@
+https://randomuser.me/api/?results=10 
+
+This is a public api which gives random data of n users in json. Display specific information for 100 users from the data on a web page.
+Information to display:
+
+Full name
+Email
+Address i.e. Street, city, state, country and postcode separated by comma.
