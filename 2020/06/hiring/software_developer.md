@@ -48,7 +48,7 @@ _This page contains challenges for CCTech's hiring activity for June 2020_
         - Output : **False**
 
 ***
-## Question 2 : Calculate the surface of the building exposed to sunlight?
+## Program 2 : Calculate the surface of the building exposed to sunlight?
 
 **Description**  : Given a coordinates of buildings and source point **_'p'_** of sunlight. Calculate the length of building exposed to sunlight having the source at point **_p_**.
 
