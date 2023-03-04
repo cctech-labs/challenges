@@ -36,15 +36,15 @@ _This page contains challenges for CCTech's hiring activity for June 2020_
 
 - **Case 1 :**
     - Input -
-        - $ Polygon$ : $ [[1,0], [8,3], [8,8], [1,5]]  $
-        - $ P $:  $ [3,5] $ 
+        - Polygon: [[1,0], [8,3], [8,8], [1,5]]
+        - P:  [3,5] 
         - Output : **True** <br> <br>
         
 
 - **Case 2 :**
     - input
-        - $ Polygon $ : $ [[-3,2], [-2,-0.8], [0,1.2], [2.2,0], [2,4.5]]$
-        - $ P $ : $[0,0]$
+        - Polygon: [[-3,2], [-2,-0.8], [0,1.2], [2.2,0], [2,4.5]]
+        - P: [0,0]
         - Output : **False**
 
 ***
@@ -65,13 +65,13 @@ _This page contains challenges for CCTech's hiring activity for June 2020_
 
 - Case 1
     - Input -
-        - $ Buildings Coordinates$ : $ [[[4,0],[4,-5],[7,-5],[7,0]]]  $
-        - $ S $:  $ [1,1] $ 
+        - Buildings Coordinates : [[[4,0],[4,-5],[7,-5],[7,0]]]
+        - S:  [1,1] 
         - Output : **8.0** <br> <br>
         
 
 - Case 1
     - input
-        - $ Buildings Coordinates$ : $ [[[4,0],[4,-5],[7,-5],[7,0]], [[0.4,-2],[0.4,-5],[2.5,-5],[2.5,-2]]]  $
-        - $ S $:  $ [-3.5,1] $ 
+        - Buildings Coordinates: [[[4,0],[4,-5],[7,-5],[7,0]], [[0.4,-2],[0.4,-5],[2.5,-5],[2.5,-2]]]
+        - S: [-3.5,1] 
         - Output : **to be calculated** <br> <br>
